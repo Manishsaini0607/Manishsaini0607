@@ -23,5 +23,5 @@ A passionate Frontend Developer from India 🇮🇳
 
 ![Manishsaini0607 GitHub stats](https://github-readme-stats.vercel.app/api?username=manishsaini0607&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=manishsaini&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=manishsaini0607&theme=radical)
 
