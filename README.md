@@ -14,14 +14,14 @@ A passionate Frontend Developer from India 🇮🇳
 - Backend with Express.js & MongoDB  
 
 ## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/manish-saini-417b312bb) | [Gmail](manishsaini244302123@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/manish-saini-417b312bb) | [Gmail](mailto:manishsaini244302123@gmail.com)
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishsaini0607&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)
 
