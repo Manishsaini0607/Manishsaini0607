@@ -21,7 +21,6 @@ A passionate Frontend Developer from India 🇮🇳
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 
-![Manishsaini0607 GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishsaini0607&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Manishsaini0607&theme=radical)
 
