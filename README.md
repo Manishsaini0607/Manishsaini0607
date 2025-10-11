@@ -11,7 +11,7 @@ A passionate Frontend Developer from India 🇮🇳
 - [Password Manager](https://password-manager07.netlify.app/)
 
 ## 🌱 Currently Learning
-- Backend with Express.js & MongoDB  
+- Backend with node & Express.js  
 
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/manish-saini-417b312bb) | [Gmail](mailto:manishsaini244302123@gmail.com)
@@ -21,7 +21,7 @@ A passionate Frontend Developer from India 🇮🇳
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 
-![Manishsaini0607 GitHub stats](https://github-readme-stats.vercel.app/api?username=manishsaini0607&show_icons=true&theme=radical)
+![Manishsaini0607 GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishsaini0607&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=manishsaini0607&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Manishsaini0607&theme=radical)
 
