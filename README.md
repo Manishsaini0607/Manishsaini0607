@@ -11,7 +11,7 @@ A passionate Frontend Developer from India 🇮🇳
 - [Password Manager](https://password-manager07.netlify.app/)
 
 ## 🌱 Currently Learning
-- Backend with node & Express.js  
+- Backend with node.js & Express 
 
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/manish-saini-417b312bb) | [Gmail](mailto:manishsaini244302123@gmail.com)
