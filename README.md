@@ -14,7 +14,7 @@ A passionate Frontend Developer from India 🇮🇳
 - Backend with node.js & Express 
 
 ## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/manish-saini-417b312bb) | [Gmail](mailto:manishsaini244302123@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/manish-saini-417b312bb) |  [Gmail](mailto:manishsaini244302123@gmail.com)
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
