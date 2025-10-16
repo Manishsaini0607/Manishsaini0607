@@ -3,7 +3,7 @@ A passionate Frontend Developer from India 🇮🇳
 
 ## 💻 Tech Stack
 - React.js | Next.js | TypeScript  
-- Tailwind CSS | Redux Toolkit | Node.js  
+- Tailwind CSS | Redux Toolkit | Node.js    
 
 ## 🚀 Projects
 - [My Portfolio Website](https://manishsaini.netlify.app/)
