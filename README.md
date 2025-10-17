@@ -5,7 +5,7 @@ A passionate Frontend Developer from India 🇮🇳
 - React.js | Next.js | TypeScript  
 - Tailwind CSS | Redux Toolkit | Node.js    
 
-## 🚀 Projects
+## 🚀 Projects 
 - [My Portfolio Website](https://manishsaini.netlify.app/)
 - [Crypto-App](https://github.com/Manishsaini0607/crypto-app)
 - [Password Manager](https://password-manager07.netlify.app/)
